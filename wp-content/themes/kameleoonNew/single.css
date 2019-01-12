@@ -1,0 +1,181 @@
+#content{
+	margin-top: 90px;
+}
+.miseBox{
+	display: none !important;
+}
+.containerArticle{
+	max-width:900px;
+} 
+.contentArticle{
+	width: 100%;
+	padding: 0;
+	border-top: 1px solid;
+    border-color: rgb(209, 209, 209);
+    padding: 0 25px;
+    padding-top: 15px;
+}
+.contentArticle img{
+	max-width: 100%;
+}
+.containerArticle .innerArticle > img{
+	width: 100%;
+	padding-right:0;
+	margin-bottom: 20px;
+}
+.contentArticle img{
+	margin: 0 auto;
+	display: block;
+}
+#primary{
+	position: relative;
+	overflow: hidden;
+}
+.tree{
+	/* position: fixed; */
+	z-index: 10;
+	top: 100px;
+	padding-top: 30px;
+}
+.infoBlock .mainTitle{
+	margin-top: 20px;
+	margin-bottom: 15px;
+	font-size: 30px;
+	color: #333333;
+}
+.infoBlock .tree a{
+	font-size: 14px;
+	font-weight: 600;
+	color: #a9a9a9;
+}
+
+.contentArticle h1 {
+	font-size: 24px;
+	font-family: "Open Sans", sans-serif;
+	font-weight: bold;
+	text-align: left;
+	color: #47A187;
+}
+.contentArticle h2 {
+	font-size: 21.5px;
+	font-family: "Open Sans", sans-serif;
+	font-weight: bold;
+	text-align: left;
+	color: black;
+}
+.contentArticle h3 {
+	font-size: 19.5px;
+	font-family: "Open Sans", sans-serif;
+	font-weight: lighter;
+	text-align: left;
+	color: grey;
+}
+.contentArticle h4 {
+	font-size: 17.5px;
+	font-family: "Open Sans", sans-serif;
+	text-align: left;
+	color: #47A187;
+}
+.contentArticle h5 {
+	font-size: 16px;
+	font-family: "Open Sans", sans-serif;
+	font-weight: bold;
+	text-align: left;
+	color: black;
+}
+.contentArticle h6 {
+	font-size: 15px;
+	font-family: "Open Sans", sans-serif;
+	text-align: left;
+	font-weight: lighter;
+	color: grey;
+}
+.contentArticle p{
+	font-size: 16px;
+	color: #565a5c;
+}
+.contentArticle p.pSmall{
+	font-size: 14px;
+	color: #565a5c;
+}
+.links{
+	width: 215px;
+    position: absolute;
+    padding: 30px 20px;
+    /* top: 220px; */
+    overflow-y: auto;
+    display: none;
+    border-radius: 4px;
+    border: 1px solid;
+    border-color: #d1d1d1;
+    box-shadow: 1.026px 2.819px 13px 0px rgba(0, 0, 0, 0.17);
+    background: #fff;
+}
+.links a{
+	color: rgb(86, 90, 92);
+}
+.links h1:hover , .links h2:hover ,.links h3:hover{
+	color: #04A783;
+}
+
+.links div:first-child >a{
+	color: #04A783;
+}
+.links div a:hover{
+	color: #04A783;
+	text-decoration: none;
+}
+.containerArticle .innerArticle{
+	border-radius: 4px;
+    border: 1px solid;
+    border-color: rgb(209, 209, 209);
+    box-shadow: 1.026px 2.819px 13px 0px rgba(0, 0, 0, 0.17);
+    text-align:justify;
+}
+
+.links h1{
+	font-size: 14px;
+	font-family: "Open Sans", sans-serif;
+	font-weight: bold;
+	text-align: left;
+	color: #47A187;
+}
+.links h2{
+	font-size: 12px;
+	font-family: "Open Sans", sans-serif;
+	font-weight: normal;
+	text-align: left;
+	padding-left: 10px;
+	color: black;
+}
+.links h3{
+	font-size: 11px;
+	font-family: "Open Sans", sans-serif;
+	font-weight: lighter;
+	text-align: left;
+	padding-left: 20px;
+	color: grey;
+}
+
+.tree a:last-child{
+	color: #00a485;
+}
+.infoBlock .tree a:hover{
+	text-decoration: none;
+	color: #00a485;
+}
+#search{
+	display: block;
+}
+.infoBlock{
+	width: 100%;
+}
+#content ul,#content ol{
+	font-size: 16px;
+	color: #565a5c;
+}
+@media screen and (max-width: 767px) {
+	.containerArticle .innerArticle > img{
+		width: auto; 
+	}
+}

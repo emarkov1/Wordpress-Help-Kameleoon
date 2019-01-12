@@ -1,0 +1,1415 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mise\n"
+"POT-Creation-Date: 2018-01-23 21:38+0100\n"
+"PO-Revision-Date: 2018-01-23 21:38+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:36
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: archive.php:39 index.php:44 search.php:41
+msgid "Previous"
+msgstr ""
+
+#: archive.php:40 index.php:45 search.php:42
+msgid "Next"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:54
+msgid "Reply"
+msgstr ""
+
+#: comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:87
+msgid "Name *"
+msgstr ""
+
+#: comments.php:88
+msgid "Email *"
+msgstr ""
+
+#: comments.php:89
+msgid "Website"
+msgstr ""
+
+#: comments.php:91
+msgid "Required fields are marked "
+msgstr ""
+
+#. translators: %s: wordpress login url
+#: comments.php:96
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#. translators: 1: profile user link, 2: username, 3: logout link
+#: comments.php:98
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:99
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:100
+msgid "Leave a Reply"
+msgstr ""
+
+#. translators: %s: name of person to reply
+#: comments.php:102
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:103
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:104
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:105
+msgid "Comment *"
+msgstr ""
+
+#: footer.php:46
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. translators: %s: WordPress name
+#: footer.php:49
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#. translators: 1: theme name, 2: theme developer
+#: footer.php:55
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:66 functions.php:123
+msgid "Primary"
+msgstr ""
+
+#: functions.php:154
+msgid "Classic Sidebar"
+msgstr ""
+
+#: functions.php:156 functions.php:165 functions.php:174 functions.php:183
+#: functions.php:192
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:163
+msgid "Push Sidebar"
+msgstr ""
+
+#: functions.php:172
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:181
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:190
+msgid "Footer 3"
+msgstr ""
+
+#: header.php:29
+msgid "Skip to content"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:31 inc/admin/mise-admin-page.php:105
+msgid "About"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:67
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:70
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:82
+msgid "Dismiss"
+msgstr ""
+
+#. translators: 1: start option panel link, 2: end option panel link
+#: inc/admin/mise-admin-page.php:86
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing Mise theme! To fully take advantage of the "
+"best our theme can offer and read the documentation please make sure you "
+"visit our %1$swelcome page%2$s."
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:90
+msgid "Get started with Mise"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:111
+msgid "Theme Info"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:113
+msgid "View Demo"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:115
+msgid "View PRO version Demo"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:117
+msgid "Rate this theme"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:130
+msgid "Free Vs PRO"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:133 inc/pro-button/class-customize.php:90
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:136
+msgid "Changelog"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:164
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:165
+msgid "All Theme Options are available via Customize screen."
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:166
+msgid "Customize"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:169
+msgid "Got theme support question?"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:170
+msgid "Please put it in our support forum."
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:171
+msgid "Support"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:174
+msgid "Need more features?"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:175 inc/admin/mise-admin-page.php:507
+msgid "Upgrade to PRO version for more exciting features."
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:176
+msgid "Info about PRO version"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:181 inc/admin/mise-admin-page.php:189
+msgid "Translate"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:185
+msgid "Click below to translate this theme into your own language."
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:200
+msgid "Return to Updates"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:200
+msgid "Return to Dashboard &rarr; Updates"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:203
+msgid "Go to Dashboard &rarr; Home"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:203
+msgid "Go to Dashboard"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:216
+msgid "View changelog below:"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:261
+msgid "Mise WordPress Theme Documentation"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:264
+msgid "How to set the \"one page\" template in the home page"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:269
+msgid ""
+"Watch the video to set the onepage template on the home page, or read the "
+"step-by-step instructions below."
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:277
+msgid ""
+"1) Create a new page and name it as you like (eg. My Home Page). In the "
+"\"Page Attributes\" section choose the template called \"One Page Website\" "
+"and save the page."
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:285
+msgid ""
+"2) Go in your WordPress Dashboard under \"Settings-> Reading\". Set the "
+"\"Front page displays\" on \"Static Page\" and choose the page you "
+"previously created as Front page (eg. My Home Page)."
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:293
+msgid ""
+"3) Perfect! Now you can go in your WordPress Dashboard under \"Appearance-> "
+"Customize\" and you'll see the section called \"Mise Onepage\" in which you "
+"can customize the home page."
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:305
+msgid "One Page: how to scroll to section using the menu"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:310
+msgid ""
+"1) Go to your WordPress Dashboard under \"Appearance-> Customize-> Mise "
+"Onepage\" and choose one section (eg. Skills) and add a section ID (eg. "
+"skills) for this section. Save the options."
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:318
+msgid ""
+"2) Now go to your WordPress Dashboard under \"Appearance-> Menus\" and "
+"create a new custom link with the URL of your home page followed the ID "
+"created for the section (eg. yoursite.com/#skills). Add this custom link to "
+"your menu and save the options."
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:330
+msgid ""
+"One Page: how to set \"About Us\" section, \"Features\" section, \"Services"
+"\" section and \"Team\" section"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:335
+msgid ""
+"Watch the video to set the \"About Us\" section, or read the step-by-step "
+"instructions below."
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:343
+msgid ""
+"1) These sections (About Us, Features, Services and Team) work in the same "
+"way and with the same procedure. To insert the content create a new page, "
+"and insert the title, content and featured image. The featured image is only "
+"valid for the \"About Us\" and \"Team\" section but is not mandatory."
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:351
+msgid ""
+"2) Now go to \"Appearance-> Customize-> Mise Onepage\" and choose the "
+"section you want to edit (About Us, Features or Services). Find the option "
+"called \"Choose the page to display\" and search the page you just created."
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:359
+msgid ""
+"3) Now the section will show the content of the page previously created and "
+"the layout will be like the example image. The \"Features\", \"Services\" "
+"and \"Team\" sections work in the same way but will have a different layout."
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:371
+msgid "One Page: how to re-order sections"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:376
+msgid ""
+"Re-order sections is available in Mise PRO version. With this feature you "
+"can choose the position of each section using drag and drop. Click on the "
+"button below for more information:"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:377
+msgid "More Info About PRO Version"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:389
+msgid "How to add social icons"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:394
+msgid ""
+"Go to your WordPress Dashboard under \"Appearance-> Customize-> Mise Theme "
+"Options-> Social Network\". Here you can choose which social network to show "
+"and where show them (in the footer section or in float position or both)."
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:406
+msgid "How to add custom logo"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:411
+msgid ""
+"Go to your WordPress Dashboard under \"Appearance-> Customize-> Site Identity"
+"\". Here you can upload your custom logo (size 250x60px)."
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:423
+msgid "How to change theme colors"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:428
+msgid ""
+"Go to your WordPress Dashboard under \"Appearance-> Customize-> Mise Theme "
+"Options-> Theme Colors\". Here you can change the theme colors according to "
+"sections of the site (header, content, sidebars and footer)."
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:440
+msgid "How to display page loader"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:445
+msgid ""
+"Go to your WordPress Dashboard under \"Appearance-> Customize-> Mise Theme "
+"Options-> General Settings\", find the option called \"Display page loader\" "
+"and check it. The background will be the same of \"Content background color"
+"\" and the loader icon the same color of \"Link color\"."
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:457
+msgid "Can I use a page builder plugin?"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:462
+msgid ""
+"Yes, the theme is compatible with Elementor Page Builder, SiteOrigin and "
+"Beaver Builder plugins. Just create or edit the page you want to use the "
+"page builder and choose the template called \"Full Width for page builders"
+"\". This template allows page builders to have maximum page customization "
+"(only the menu and the footer will be visible)."
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:474
+msgid "How to highlight a menu item"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:479
+msgid ""
+"If you need to emphasize a menu item (call to action, donate button, etc..) "
+"just go to your WordPress Dashboard under \"Appearance-> Menus\". Create a "
+"new \"Custom Links\" and drag it into the menu. Expand the entry and in the "
+"\"CSS Classes\" section write: crestaMenuButton"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:487
+msgid ""
+"This will be the result (the colors change according to the ones chosen)."
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:511
+msgid "Features"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:512
+msgid "Mise"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:513
+msgid "Mise PRO"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:518
+msgid "Theme Options made with the WP Customizer"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:523
+msgid "Responsive Design"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:528
+msgid "Logo Upload"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:533
+msgid "Unlimited Text and Background Color"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:538
+msgid "Choose Social Icons"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:540
+msgid "+ more social buttons"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:543
+msgid "WooCommerce Compatibility"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:548
+msgid "WPML Multilingual ready"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:553
+msgid "RTL Support"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:558
+msgid "Sidebar and Footer Widgets"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:563
+msgid "Loading Page"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:564
+msgid "1 loader"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:565
+msgid "7 loaders"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:568
+msgid "One Page Template"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:570
+msgid "+ more sections"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:573
+msgid "One Page additional sections"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:575
+msgid ""
+"Portfolio, Google Map, Numbers, Newsletter, Clients, Testimonials, Video and "
+"more..."
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:578
+msgid "One Page Section Reorder"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:583
+msgid "One Page Template scroll animations"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:588
+msgid "One Page choose Slider Height"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:593
+msgid "Portfolio Template"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:598
+msgid "Parallax Effect"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:603
+msgid "Choose Header Height"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:608
+msgid "Google Fonts switcher"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:613
+msgid "Manage sidebar position"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:618
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:623
+msgid "Post views counter"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:628
+msgid "6 Shortcodes"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:633
+msgid "8 Exclusive Widgets"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:638
+msgid "Related Posts Box"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:643
+msgid "Information About Author Box"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:648
+msgid "PowerTip, LightBox, Custom Copyright Text and much more..."
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:656
+msgid "View PRO version demo"
+msgstr ""
+
+#: inc/admin/mise-admin-page.php:657
+msgid "Get Mise PRO"
+msgstr ""
+
+#: inc/customizer.php:74
+msgid "Mise Theme Options"
+msgstr ""
+
+#: inc/customizer.php:81
+msgid "Mise Onepage"
+msgstr ""
+
+#: inc/customizer.php:85
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer.php:90
+msgid "Posts and Pages Settings"
+msgstr ""
+
+#: inc/customizer.php:95
+msgid "Theme Colors"
+msgstr ""
+
+#: inc/customizer.php:100
+msgid "Social Network"
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "Section slider"
+msgstr ""
+
+#: inc/customizer.php:111
+msgid "Section about us"
+msgstr ""
+
+#: inc/customizer.php:116
+msgid "Section features"
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "Section skills"
+msgstr ""
+
+#: inc/customizer.php:126
+msgid "Section call to action"
+msgstr ""
+
+#: inc/customizer.php:131
+msgid "Section services"
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "Section blog"
+msgstr ""
+
+#: inc/customizer.php:141
+msgid "Section team"
+msgstr ""
+
+#: inc/customizer.php:146
+msgid "Section contact"
+msgstr ""
+
+#: inc/customizer.php:153
+msgid "Mise useful links"
+msgstr ""
+
+#: inc/customizer.php:166
+msgid "Display page loader"
+msgstr ""
+
+#: inc/customizer.php:180
+msgid "Display search button in the header"
+msgstr ""
+
+#: inc/customizer.php:194
+msgid "Enable Smooth Scroll"
+msgstr ""
+
+#: inc/customizer.php:208
+msgid "Show scroll to top button also on mobile view"
+msgstr ""
+
+#: inc/customizer.php:222
+msgid "Custom Excerpt Final"
+msgstr ""
+
+#: inc/customizer.php:239
+msgid "First letter reverse color for title in posts and pages"
+msgstr ""
+
+#: inc/customizer.php:253
+msgid "Show scroll down button in posts and pages with featured image"
+msgstr ""
+
+#: inc/customizer.php:267
+msgid "Show zoom effect on featured images"
+msgstr ""
+
+#: inc/customizer.php:288
+msgid "Header Section"
+msgstr ""
+
+#: inc/customizer.php:304
+msgid "Content Section"
+msgstr ""
+
+#: inc/customizer.php:320
+msgid "Sidebars Section"
+msgstr ""
+
+#: inc/customizer.php:336
+msgid "Footer Section"
+msgstr ""
+
+#: inc/customizer.php:346
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer.php:352
+msgid "Header Text Color"
+msgstr ""
+
+#: inc/customizer.php:358
+msgid "Content Background Color"
+msgstr ""
+
+#: inc/customizer.php:364
+msgid "Content Text Color"
+msgstr ""
+
+#: inc/customizer.php:370
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer.php:376
+msgid "Border Color"
+msgstr ""
+
+#: inc/customizer.php:382
+msgid "Classic sidebar background color"
+msgstr ""
+
+#: inc/customizer.php:388
+msgid "Push sidebar background color"
+msgstr ""
+
+#: inc/customizer.php:394
+msgid "Footer background color"
+msgstr ""
+
+#: inc/customizer.php:400
+msgid "Footer text color"
+msgstr ""
+
+#: inc/customizer.php:406
+msgid "Footer link color"
+msgstr ""
+
+#: inc/customizer.php:441
+msgid "Display social network in float"
+msgstr ""
+
+#: inc/customizer.php:456
+msgid "Float Text "
+msgstr ""
+
+#: inc/customizer.php:470
+msgid "Display social network in footer"
+msgstr ""
+
+#: inc/customizer.php:485
+msgid "Open social links"
+msgstr ""
+
+#: inc/customizer.php:491 inc/customizer.php:1535
+msgid "Same window"
+msgstr ""
+
+#: inc/customizer.php:492
+msgid "New Window"
+msgstr ""
+
+#: inc/customizer.php:501
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/customizer.php:506
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/customizer.php:511
+msgid "Google Plus URL"
+msgstr ""
+
+#: inc/customizer.php:516
+msgid "Linkedin URL"
+msgstr ""
+
+#: inc/customizer.php:521
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/customizer.php:526
+msgid "YouTube URL"
+msgstr ""
+
+#: inc/customizer.php:531
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/customizer.php:536
+msgid "Tumblr URL"
+msgstr ""
+
+#: inc/customizer.php:541
+msgid "Flickr URL"
+msgstr ""
+
+#: inc/customizer.php:546
+msgid "VK URL"
+msgstr ""
+
+#: inc/customizer.php:551
+msgid "Xing URL"
+msgstr ""
+
+#: inc/customizer.php:556
+msgid "Reddit URL"
+msgstr ""
+
+#: inc/customizer.php:561
+msgid "OK.ru URL"
+msgstr ""
+
+#: inc/customizer.php:594
+msgid "Display section slider"
+msgstr ""
+
+#: inc/customizer.php:608 inc/customizer.php:755 inc/customizer.php:961
+#: inc/customizer.php:1201 inc/customizer.php:1372 inc/customizer.php:1564
+#: inc/customizer.php:1841 inc/customizer.php:2010 inc/customizer.php:2182
+msgid "Section ID name"
+msgstr ""
+
+#: inc/customizer.php:609 inc/customizer.php:756 inc/customizer.php:962
+#: inc/customizer.php:1202 inc/customizer.php:1373 inc/customizer.php:1565
+#: inc/customizer.php:1842 inc/customizer.php:2011 inc/customizer.php:2183
+msgid ""
+"ID for this section - if you want the user to be able to scroll down to this "
+"section."
+msgstr ""
+
+#: inc/customizer.php:624
+msgid "First letter reverse color"
+msgstr ""
+
+#: inc/customizer.php:639
+msgid "Show scroll down button"
+msgstr ""
+
+#: inc/customizer.php:659
+msgid "Slider "
+msgstr ""
+
+#: inc/customizer.php:675
+msgid "Slide image "
+msgstr ""
+
+#: inc/customizer.php:690
+msgid "Slider Text "
+msgstr ""
+
+#: inc/customizer.php:705
+msgid "Slider Subtext "
+msgstr ""
+
+#: inc/customizer.php:724
+msgid "Note:"
+msgstr ""
+
+#: inc/customizer.php:725
+msgid "Upload up to three sliders. Recommended image size: 1920X1080"
+msgstr ""
+
+#: inc/customizer.php:741
+msgid "Display section about us"
+msgstr ""
+
+#: inc/customizer.php:775 inc/customizer.php:981 inc/customizer.php:1221
+#: inc/customizer.php:1392 inc/customizer.php:1584 inc/customizer.php:1861
+#: inc/customizer.php:2030 inc/customizer.php:2202
+msgid "Background Image Section (optional)"
+msgstr ""
+
+#: inc/customizer.php:795 inc/customizer.php:1001 inc/customizer.php:1241
+#: inc/customizer.php:1412 inc/customizer.php:1604 inc/customizer.php:1881
+#: inc/customizer.php:2050 inc/customizer.php:2222
+msgid "Background Color Section"
+msgstr ""
+
+#: inc/customizer.php:815 inc/customizer.php:1021 inc/customizer.php:1261
+#: inc/customizer.php:1432 inc/customizer.php:1624 inc/customizer.php:1901
+#: inc/customizer.php:2070 inc/customizer.php:2242
+msgid "Text Color Section"
+msgstr ""
+
+#: inc/customizer.php:824 sections/section-aboutus.php:5
+msgid "About Us"
+msgstr ""
+
+#: inc/customizer.php:831 inc/customizer.php:1037 inc/customizer.php:1277
+#: inc/customizer.php:1640 inc/customizer.php:1917 inc/customizer.php:2086
+#: inc/customizer.php:2258
+msgid "Title"
+msgstr ""
+
+#: inc/customizer.php:840 sections/section-aboutus.php:6
+msgid "Who We Are"
+msgstr ""
+
+#: inc/customizer.php:847 inc/customizer.php:1053 inc/customizer.php:1293
+#: inc/customizer.php:1656 inc/customizer.php:1933 inc/customizer.php:2102
+#: inc/customizer.php:2274
+msgid "Subtitle"
+msgstr ""
+
+#: inc/customizer.php:866
+msgid "About us text"
+msgstr ""
+
+#: inc/customizer.php:880 inc/customizer.php:1139 inc/customizer.php:1721
+#: inc/customizer.php:2149
+msgid "Choose the page to display"
+msgstr ""
+
+#: inc/customizer.php:881
+msgid "Title, content and featured image will be used in the box"
+msgstr ""
+
+#: inc/customizer.php:899
+msgid "About us button"
+msgstr ""
+
+#: inc/customizer.php:907 inc/customizer.php:1148 inc/customizer.php:1492
+#: sections/section-aboutus.php:8 sections/section-cta.php:10
+#: sections/section-features.php:25 sections/section-features.php:49
+#: sections/section-features.php:53 sections/section-features.php:93
+#: sections/section-features.php:97 sections/section-features.php:101
+#: sections/section-features.php:157 sections/section-features.php:161
+#: sections/section-features.php:165 sections/section-features.php:169
+msgid "More Information"
+msgstr ""
+
+#: inc/customizer.php:914 inc/customizer.php:1498
+msgid "Text Button"
+msgstr ""
+
+#: inc/customizer.php:929 inc/customizer.php:1513
+msgid "Link Button"
+msgstr ""
+
+#: inc/customizer.php:947
+msgid "Display section features"
+msgstr ""
+
+#: inc/customizer.php:1030 sections/section-features.php:5
+msgid "Elements"
+msgstr ""
+
+#: inc/customizer.php:1046 sections/section-features.php:6
+msgid "Amazing Features"
+msgstr ""
+
+#: inc/customizer.php:1068
+msgid "How many boxes to display"
+msgstr ""
+
+#: inc/customizer.php:1075
+msgid "1"
+msgstr ""
+
+#: inc/customizer.php:1076
+msgid "2"
+msgstr ""
+
+#: inc/customizer.php:1077
+msgid "3"
+msgstr ""
+
+#: inc/customizer.php:1078
+msgid "4"
+msgstr ""
+
+#: inc/customizer.php:1089 inc/customizer.php:1671
+msgid "Text lenght for boxes content (number of words)"
+msgstr ""
+
+#: inc/customizer.php:1109
+msgid "Box number "
+msgstr ""
+
+#: inc/customizer.php:1126 inc/customizer.php:1452 inc/customizer.php:1708
+#: inc/customizer.php:2455
+msgid "FontAwesome Icon"
+msgstr ""
+
+#: inc/customizer.php:1140 inc/customizer.php:1722
+msgid "Title and content (unformatted) will be used in the box"
+msgstr ""
+
+#: inc/customizer.php:1155
+msgid "Text Button "
+msgstr ""
+
+#: inc/customizer.php:1169
+msgid "Link Button "
+msgstr ""
+
+#: inc/customizer.php:1187
+msgid "Display section skills"
+msgstr ""
+
+#: inc/customizer.php:1270 sections/section-skills.php:5
+msgid "Our Skills"
+msgstr ""
+
+#: inc/customizer.php:1286 sections/section-skills.php:6
+msgid "What We Do"
+msgstr ""
+
+#: inc/customizer.php:1313
+msgid "Skill number "
+msgstr ""
+
+#: inc/customizer.php:1325
+msgid "Skill name"
+msgstr ""
+
+#: inc/customizer.php:1339
+msgid "Skill value"
+msgstr ""
+
+#: inc/customizer.php:1340
+msgid "Enter a value between 0 and 100"
+msgstr ""
+
+#: inc/customizer.php:1358
+msgid "Display section call to action"
+msgstr ""
+
+#: inc/customizer.php:1467
+msgid "Call to action phrase"
+msgstr ""
+
+#: inc/customizer.php:1483
+msgid "Call to action description"
+msgstr ""
+
+#: inc/customizer.php:1528
+msgid "Open the link in"
+msgstr ""
+
+#: inc/customizer.php:1536
+msgid "New window"
+msgstr ""
+
+#: inc/customizer.php:1550
+msgid "Display section services"
+msgstr ""
+
+#: inc/customizer.php:1633 sections/section-services.php:5
+msgid "Services"
+msgstr ""
+
+#: inc/customizer.php:1649 sections/section-services.php:6
+msgid "What We Offer"
+msgstr ""
+
+#: inc/customizer.php:1691
+msgid "Service number "
+msgstr ""
+
+#: inc/customizer.php:1741
+msgid "Services text"
+msgstr ""
+
+#: inc/customizer.php:1755
+msgid "Phrase"
+msgstr ""
+
+#: inc/customizer.php:1771
+msgid "Textarea"
+msgstr ""
+
+#: inc/customizer.php:1790
+msgid "Services image"
+msgstr ""
+
+#: inc/customizer.php:1808
+msgid "Upload Image"
+msgstr ""
+
+#: inc/customizer.php:1809
+msgid "Recommended image size: 1000X600px."
+msgstr ""
+
+#: inc/customizer.php:1827
+msgid "Display section blog"
+msgstr ""
+
+#: inc/customizer.php:1910 sections/section-blog.php:7
+msgid "News"
+msgstr ""
+
+#: inc/customizer.php:1926 sections/section-blog.php:8
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/customizer.php:1948
+msgid "Number of posts to show"
+msgstr ""
+
+#: inc/customizer.php:1957 sections/section-blog.php:10
+msgid "Go to the blog!"
+msgstr ""
+
+#: inc/customizer.php:1963
+msgid "Text blog button"
+msgstr ""
+
+#: inc/customizer.php:1978
+msgid "Link Blog Button"
+msgstr ""
+
+#: inc/customizer.php:1996
+msgid "Display section team"
+msgstr ""
+
+#: inc/customizer.php:2079 sections/section-team.php:5
+msgid "Our Team"
+msgstr ""
+
+#: inc/customizer.php:2095 sections/section-team.php:6
+msgid "Nice to meet you"
+msgstr ""
+
+#: inc/customizer.php:2117
+msgid "Text lenght for team content (number of words)"
+msgstr ""
+
+#: inc/customizer.php:2137
+msgid "Person number "
+msgstr ""
+
+#: inc/customizer.php:2150
+msgid "Featured Image, title and content will be used in the box"
+msgstr ""
+
+#: inc/customizer.php:2168
+msgid "Display section contact"
+msgstr ""
+
+#: inc/customizer.php:2251 sections/section-contact.php:5
+msgid "Contact Us"
+msgstr ""
+
+#: inc/customizer.php:2267 sections/section-contact.php:6
+msgid "Get in touch"
+msgstr ""
+
+#: inc/customizer.php:2293
+msgid "Contact fields"
+msgstr ""
+
+#: inc/customizer.php:2307
+msgid "Additional Text"
+msgstr ""
+
+#: inc/customizer.php:2323
+msgid "Company Name"
+msgstr ""
+
+#: inc/customizer.php:2339
+msgid "Address line 1"
+msgstr ""
+
+#: inc/customizer.php:2355
+msgid "Address line 2"
+msgstr ""
+
+#: inc/customizer.php:2371
+msgid "Address line 3"
+msgstr ""
+
+#: inc/customizer.php:2387
+msgid "Phone Number"
+msgstr ""
+
+#: inc/customizer.php:2403
+msgid "Fax Number"
+msgstr ""
+
+#: inc/customizer.php:2419
+msgid "Email Address"
+msgstr ""
+
+#: inc/customizer.php:2434
+msgid "Contact Form Shortcode"
+msgstr ""
+
+#: inc/customizer.php:2657
+msgid "Thank you for using Mise WordPress Theme"
+msgstr ""
+
+#: inc/customizer.php:2662
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/customizer.php:2665
+msgid "Watch the demo"
+msgstr ""
+
+#: inc/customizer.php:2668
+msgid "Watch the PRO Version demo"
+msgstr ""
+
+#: inc/customizer.php:2671
+msgid "More info about Mise theme"
+msgstr ""
+
+#: inc/customizer.php:2862
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer.php:2865
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer.php:2868
+msgid "Google Plus"
+msgstr ""
+
+#: inc/customizer.php:2871
+msgid "Linkedin"
+msgstr ""
+
+#: inc/customizer.php:2874
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer.php:2877
+msgid "YouTube"
+msgstr ""
+
+#: inc/customizer.php:2880
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer.php:2883
+msgid "Tumblr"
+msgstr ""
+
+#: inc/customizer.php:2886
+msgid "Flickr"
+msgstr ""
+
+#: inc/customizer.php:2889
+msgid "VK"
+msgstr ""
+
+#: inc/customizer.php:2892
+msgid "Xing"
+msgstr ""
+
+#: inc/customizer.php:2895
+msgid "Reddit"
+msgstr ""
+
+#: inc/customizer.php:2898
+msgid "OK.ru"
+msgstr ""
+
+#: inc/pro-button/class-customize.php:77
+msgid "Mise PRO Theme"
+msgstr ""
+
+#: inc/pro-button/class-customize.php:78
+msgid "More Info"
+msgstr ""
+
+#: inc/pro-button/class-customize.php:89
+msgid "Mise documentation"
+msgstr ""
+
+#: inc/pro-button/class-customize.php:101
+msgid "Change sections position"
+msgstr ""
+
+#: inc/pro-button/class-customize.php:102
+msgid "PRO Version"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:35
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:50
+msgid " / "
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:56
+msgid " "
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:65 template-parts/content-page.php:41
+#: template-parts/content.php:41
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#. translators: %s: search query
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sections/section-blog.php:34 template-parts/content.php:17
+msgid "Read More"
+msgstr ""
+
+#: sections/section-skills.php:30
+msgid "%"
+msgstr ""
+
+#: single.php:21
+msgid "Next Post"
+msgstr ""
+
+#: single.php:22
+msgid "Next post:"
+msgstr ""
+
+#: single.php:24
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:25
+msgid "Previous post:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: %1$s: create new post link
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:30
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:36
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:23 template-parts/content-single.php:29
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-page.php:27 template-parts/content-single.php:33
+msgid "Page"
+msgstr ""

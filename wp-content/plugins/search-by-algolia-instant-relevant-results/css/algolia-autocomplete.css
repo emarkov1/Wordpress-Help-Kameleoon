@@ -1,0 +1,224 @@
+.algolia-autocomplete {
+	z-index: 999999 !important;
+}
+.aa-dropdown-menu {
+	/* we set the width in JS */
+	font-family: sans-serif;
+	background-color: #fff;
+	border-top: none;
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+	box-shadow: 0 1px 2px rgba(0,0,0,.25),0 0 1px rgba(0,0,0,.35);
+}
+
+.aa-dropdown-menu:after {
+	content: " ";
+	display: block;
+	clear: both;
+
+}
+
+.aa-dropdown-menu .aa-input, .aa-dropdown-menu .aa-hint {
+	width: 100%;
+}
+.aa-dropdown-menu .aa-hint {
+	color: #04a783;
+}
+
+/* my */
+.algolia-autocomplete{
+	/* left: auto !important; */
+	width: auto !important;
+}
+.auto-left{
+	left: auto !important;
+}
+/* color of hte title */
+.suggestion-post-title{
+	color: #04a783;
+	padding: 5px 0;
+	padding-left: 30px;
+	margin-top: 20px;
+}
+.suggestion-post-content{
+	color: yellow;
+	padding: 5px 0;
+	padding-right: 30px;
+	padding-left: 60px;
+	margin-top: 20px;
+}
+.aa-dataset-3 img, .aa-dataset-1 img{
+	display: none;
+}
+.aa-dataset-3>div{
+	padding: 30px 10px;
+}
+.autocomplete-header{
+	display: none;
+}
+
+/* Font */
+.aa-dropdown-menu {
+	color: #04a783;
+	font-size: 12px;
+	width: 590px;
+}
+
+/* height of each block in results */
+.aa-dropdown-menu a {
+	font-size: 12px;
+	color: #04a783;
+	font-weight: normal;
+	text-decoration: none;
+	height: 110px;
+}
+.aa-dropdown-menu a:hover {
+	text-decoration: none;
+}
+
+/* Header */
+.aa-dropdown-menu .autocomplete-header {
+	margin: 0 14px;
+	line-height: 3em;
+	border-bottom: 1px solid rgba(0,0,0,.05);
+}
+.aa-dropdown-menu .autocomplete-header-title,
+.aa-dropdown-menu .autocomplete-header-more
+{
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.aa-dropdown-menu .autocomplete-header-title {
+	float: left;
+	
+}
+
+.aa-dropdown-menu .autocomplete-header-more {
+	float: right;
+}
+
+.aa-dropdown-menu .autocomplete-header-more a {
+	color: #04a783;
+	font-weight: bold;
+}
+
+.aa-dropdown-menu .autocomplete-header-more a:hover {
+	color: #04a783;
+}
+
+/* Suggestion */
+
+.aa-dropdown-menu .aa-suggestion {
+	padding: 5px 0;
+}
+
+.aa-dropdown-menu .aa-suggestion:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+/* gotovo header */
+/* of the search result  = input */
+.aa-dropdown-menu .aa-suggestion em {  
+	color: #04a783;
+	/* background: rgba(143,187,237,.1); */
+	font-style: normal;
+	text-decoration: underline;
+}
+
+.aa-dropdown-menu .aa-suggestion .suggestion-post-title {
+	font-weight: bold;
+	display: block;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+
+/* color of all text */
+.aa-dropdown-menu .aa-suggestion .suggestion-post-content {
+	color: #000;
+	display: block;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+
+/* color of the text-content shadow is the line */
+.aa-dropdown-menu .aa-suggestion .suggestion-post-content em {
+	/* padding: 0 0 1px; */
+	background: inherit;
+	box-shadow: inset 0 -2px 0 0 #000;
+	color: #000;
+}
+
+/* videlenie li background */
+.aa-dropdown-menu .aa-suggestion.aa-cursor {
+	background-color: #f9f9f9;
+
+}
+
+.aa-dropdown-menu a.suggestion-link {
+	display: block;
+	padding: 0 14px;
+}
+
+.aa-dropdown-menu a.suggestion-link.user-suggestion-link {
+	line-height: 32px;
+}
+
+
+.aa-dropdown-menu a.suggestion-link svg {
+	vertical-align: middle;
+	fill: rgba(0,0,0,.3);
+	float: left;
+	
+}
+
+.aa-dropdown-menu .suggestion-post-thumbnail {
+	float: left;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	border-radius: 3px;
+	width: 32px;
+	height: 32px;
+}
+
+.aa-dropdown-menu .suggestion-user-thumbnail {
+	float: left;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	border-radius: 16px;
+	width: 32px;
+	height: 32px;
+}
+
+/* Footer */
+.aa-dropdown-menu .autocomplete-footer-branding {
+	padding: 15px 14px 0px;
+	float: right;
+	color: #04a783;
+	margin-bottom: 7px;
+	display: none;
+}
+
+/* Clearfix */
+.aa-dropdown-menu .clear {
+	clear: both;
+}
+
+/* Empty */
+.autocomplete-empty {
+	clear: both;
+	padding: 15px;
+	padding-left: 30px;
+}
+
+.autocomplete-empty .empty-query {
+	font-weight: bold;
+}
